@@ -1,0 +1,34 @@
+{
+  "notearr":[
+                    {
+                        "noteid": "drag0",
+                        "notedata": "Hello Note 1",
+                        "top":"250px",
+                        "left":"250px"
+                    },
+                    {
+                        "noteid": "drag1" ,
+                        "notedata":"Hello Note 2",
+                        "top":"750px",
+                        "left":"750px"
+                    },
+                    {
+                        "noteid": "drag2" ,
+                        "notedata":"Hello Note 3",
+                        "top":"750px",
+                        "left":"250px"
+                    },
+                    {
+                        "noteid": "drag3" ,
+                        "notedata":"Hello Note 4",
+                        "top":"250px",
+                        "left":"750px"
+                    },
+                    {
+                        "noteid": "drag4" ,
+                        "notedata":"Hello Note 5",
+                        "top":"500px",
+                        "left":"500px"
+                    }
+  ]
+}
